@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['car damage'] #name of class 
+
+roboflow:
+  workspace: minim
+  project: car-damage-dn9sl
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/minim/car-damage-dn9sl/dataset/3`
