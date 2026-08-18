@@ -111,12 +111,19 @@ The processed video will be saved in the **outputs/** directory.
 
 Sample Detections:
 
-![Detection 1](assets/detection1.png)
+![videoresult1](assets/videoresult1.png)
 
-![Detection 2](assets/detection2.png)
+![videoresult2](assets/videoresult2.png)
 
-![Detection 3](assets/detection3.png)
+![videoresult3](assets/videoresult3.png)
 
+![imageresult1](assets/imageresult1.png)
+
+![imageresult2](assets/imageresult2.png)
+
+![imageresult3](assets/imageresult3.png)
+
+![imageresult4](assets/imageresult4.png)
 ---
 
 🎬 Demo
