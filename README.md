@@ -19,9 +19,13 @@ A computer vision project that detects **vehicle damage** using a custom-trained
 vehicle_damage_dataset/
 │
 ├── assets/
-│   ├── detection1.png
-│   ├── detection2.png
-│   ├── detection3.png
+│   ├── videoresult1.png
+│   ├── videoresult2.png
+│   ├── videoresult3.png
+|   |__ imageresult1.png
+|   |__ imageresult2.png
+|   |__ imageresult3.png
+|   |__ imageresult4.png
 │   └── demo.gif
 │
 ├── dataset/
@@ -128,7 +132,9 @@ Sample Detections:
 
 🎬 Demo
 
-If you upload your processed video to GitHub, you can link it here or include a GIF preview in the `assets` folder.
+## 🎬 Demo
+
+![demo.gif](assets/demo.gif)
 
 ---
 
